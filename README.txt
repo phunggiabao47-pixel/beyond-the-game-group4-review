@@ -1,6 +1,8 @@
-BEYOND THE GAME / ELL1 / GROUP 04
-DEMO 1: Slide 7 update
+BEYOND THE GAME / DEMO 1 / OPENING + ROLL FX / V1
 
-Contains: 2 team photos, survey metrics, 2026 achievements in EN/VI, mobile tabs, and previous Slide 6 fix.
+SOURCE: Slide 7 Update (the previous approved baseline).
+CHANGES: Slide 1 Spain + PSG photo collage; rolling number reels in highlighted survey metrics each time a slide is shown; mobile U23/Senior tab counters animate when selected.
+UNCHANGED: Slide 6, Slide 7 team photos/content, the 17 scenes, all survey values and previous assets.
 
-Upload index.html to the REVIEW repository ONLY after preview approval. Production project should remain unchanged.
+DEPLOY: Upload or replace ONLY index.html in the GitHub repository for the existing REVIEW Vercel project (not the stable production project). Confirm Vercel deploy and website header says DEMO 1 / OPENING + ROLL FX.
+BACKUP: retain ZIP.
