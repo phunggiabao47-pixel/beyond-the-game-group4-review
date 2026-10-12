@@ -1,3 +1,6 @@
-BEYOND THE GAME - DEMO 1: Slide 6 mobile-only layout fix.
-This standalone HTML includes all assets. Only replace index.html in the REVIEW repository after preview approval. Do not modify the older production project.
-On mobile, Slide 6 has two tabs: Global/Regional and Domestic/Clubs. The underlying six surveyed values are unchanged.
+BEYOND THE GAME / ELL1 / GROUP 04
+DEMO 1: Slide 7 update
+
+Contains: 2 team photos, survey metrics, 2026 achievements in EN/VI, mobile tabs, and previous Slide 6 fix.
+
+Upload index.html to the REVIEW repository ONLY after preview approval. Production project should remain unchanged.
